@@ -1,4 +1,3 @@
-[![MasterHead](https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg)]()
 <h1 align="center">Hi 👋, I'm Sreehari J</h1>
 <h3 align="center">A passionate DSA Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
