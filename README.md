@@ -2,11 +2,11 @@
 <h3 align="center">A passionate DSA Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on **Stock Price Analysis through Zerodha Api**
+- 🔭 I’m currently working on **Chatroom with Socket Programming**
 
-- 🌱 I’m currently learning **Database Management**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
-- 💬 Ask me about **Algotrading, DSA**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **sreeharij2003@gmail.com**
 
