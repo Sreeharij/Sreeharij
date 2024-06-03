@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DSA Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on **Chatroom with Socket Programming**
+- 🔭 I’m currently working on **Stock Market Analysis using upstox api**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
